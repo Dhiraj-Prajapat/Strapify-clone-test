@@ -100,7 +100,7 @@ const Hero = () => {
                   </div>
                 </div>
                 
-                </marquee
+                </marquee>
                 <div className="right-gradient"></div>
               </div>
           </div>
